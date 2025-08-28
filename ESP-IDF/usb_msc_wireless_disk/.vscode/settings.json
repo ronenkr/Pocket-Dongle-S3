@@ -1,0 +1,10 @@
+{
+    "idf.adapterTargetName": "esp32s3",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-bridge.cfg"
+    ],
+    "idf.portWin": "COM1538",
+    "idf.flashType": "UART",
+    "idf.espIdfPathWin": "d:\\Aw\\B\\esp\\v5.2.3\\esp-idf",
+    "idf.toolsPathWin": "d:\\Aw\\B\\tool"
+}
