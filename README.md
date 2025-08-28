@@ -155,14 +155,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🛒 Hardware Source
 
 This ESP32-S3 Pocket Dongle can be found on AliExpress and similar electronics marketplaces. Search for "ESP32-S3 0.96 LCD USB dongle" or similar terms.
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-- 🐛 **Report bugs**: Open an issue on GitHub
-- 💡 **Feature requests**: Open an issue with the "enhancement" label
-- 📧 **General questions**: Check existing issues or create a new one
-
-## ⭐ Show Your Support
-
-If this project helped you, please give it a ⭐ star on GitHub!
