@@ -112,6 +112,23 @@ Display animated GIFs on the built-in LCD screen.
 
 ## 🔌 Pinout & Connections
 
+### TFT Display Pinouts
+```
+TFT_MOSI=11
+TFT_SCLK=10
+TFT_CS=12 
+TFT_DC=13 
+TFT_RST=14
+```
+
+### SD Card Pinouts
+```cpp
+SD_MISO=16
+SD_MOSI=18  
+SD_SCK=17
+SD_CS=47
+```
+
 Detailed hardware schematics and pinout information can be found in:
 - 📄 **[Hardware Schematic (PDF)](Schematics/ESP32-S3-0.96LCD.pdf)**
 
